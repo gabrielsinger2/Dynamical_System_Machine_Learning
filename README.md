@@ -1,3 +1,4 @@
+Final Grade 17/20
 # Dynamical_System_Machine_Learning
 We consider a quantity $x$ (a vector) which evolves with time, following a dynamical system. Think for example of the joint location of the planets in our solar system, which follows the law of gravitation.
 
